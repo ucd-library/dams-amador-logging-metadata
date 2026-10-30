@@ -22,10 +22,6 @@
     "http://schema.org/name": "History"
   },
   {
-    "@id": "http://id.worldcat.org/fast/1423873",
-    "http://schema.org/name": "Illustrated works"
-  },
-  {
     "@id": "http://id.worldcat.org/fast/1001952",
     "http://schema.org/name": "Logging"
   }
