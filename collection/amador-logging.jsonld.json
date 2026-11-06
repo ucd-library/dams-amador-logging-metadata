@@ -31,7 +31,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2026"
   },
-  "schema:description": "A photo album containing more than 50 images of the lumber trade near Pine Grove, California, circa 1905. Photographs include images of the forest, laborers and their families, men at work, homes and other buildings, railways, wilderness life, and the industry and infrastructure of lumbering. Some of the images are signed \"Magill\" in the negative.\n\n Located in Amador County, Pine Grove sits at an elevation of 2,400 feet - an ideal transition altitude where oaks and pine trees share the landscape. Logging and mining played a key role in the regional economy from the 1850s to the 1940s. Historically, lumber from small steam-powered splinter sawmills was used to shore up tunnels in mine shafts to prevent cave-ins and for sluice boxes and flumes.\n\n [Description provided by Johnson Rare Books and Archives].",
+  "schema:description": "A photo album containing more than 50 images of the lumber trade near Pine Grove, California, circa 1905. Photographs include images of the forest, laborers and their families, men at work, homes and other buildings, railways, wilderness life, and the industry and infrastructure of lumbering. Some of the images are signed \"Magill\" in the negative.\n\n Description provided by Johnson Rare Books and Archives.\n\n The finding aid is available at [The Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8s189pq)",
   "schema:inLanguage": "en",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC/1.0/"
